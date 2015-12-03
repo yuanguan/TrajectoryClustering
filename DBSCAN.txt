@@ -1,0 +1,1 @@
+The Source Code of DBSCAN (Ester M, Kriegel HP, Sander J, Xu X(1996) Density-based algorithm for discovering clusters in large spatial databases with noise. In: Proc of the 2nd International Conference on Knowledge Discovery and Data Mining, pp 226-231.) is writen with c plus plus and compiled on the Win 7(x64, professional edition) with vc 9.0.

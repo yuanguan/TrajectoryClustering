@@ -1,0 +1,1 @@
+The Source Code of OPTICS (Ordering Points To Identify the Clustering Structure) (Ankerst M, Breunig M M, Kriegel H P, Sander J(1999) OPTICS: Ordering Points To Identify the Clustering Structure. The 1999 ACM SIGMOD international conference on Management of data. pp 49-60.) is writen with java and compiled on the Win 7(x64, professional edition) with eclipse.
