@@ -1,0 +1,1 @@
+The Source Code of CURE (Guha S, Rastogi R, Shim K (2001) CURE: An Efficient Clustering Algorithm for large databases, Information Systems, 26(1):35-58.) is writen with c sharp and compiled on the Win 7(x64, professional edition) with visual studio 2010.
