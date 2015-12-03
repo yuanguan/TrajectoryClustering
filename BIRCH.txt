@@ -1,0 +1,4 @@
+The Source Code of BIRCH (Zhang T, Ramakrishnan R, Livny M (1996) BIRCH: an efficient data clustering method for very large databases, Proceedings of the 1996 ACM SIGMOD international conference on Management of data. pp 103-114.) is writen with c plus plus and compiled on the Win 7(x64, professional edition) with eclipse.
+
+
+The TestX.java files should give you a good idea about how to use the code
